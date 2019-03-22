@@ -12,4 +12,4 @@ Send domain name renewal and expiry notifications using Namecheap API and Twilio
 - Run ```Composer install``` in your terminal to install dependencies
 - Follow this [tutorial](#)
 
-* Credit to [Maksym Karazieiev](https://github.com/speedster-kiev/) for the awesome [Namecheap PHP SDK](https://github.com/speedster-kiev/namecheap-php-sdk) used in this tutorial,
+* Credit to [Maksym Karazieiev](https://github.com/speedster-kiev/) for the awesome [Namecheap PHP SDK](https://github.com/speedster-kiev/namecheap-php-sdk) used in this tutorial.
